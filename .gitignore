@@ -1,0 +1,10 @@
+tmp
+bin
+Makefile
+MakeTi.tmbundle
+build/iphone/*
+build/android/*
+
+*.class
+*.pyc
+*.pyo
